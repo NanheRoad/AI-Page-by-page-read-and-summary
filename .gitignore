@@ -1,0 +1,20 @@
+# 忽略 book_analysis/ 目录
+book_analysis/knowledge_bases/*
+book_analysis/summaries/*
+book_analysis/pdfs/*
+# 忽略 __pycache__/ 目录
+__pycache__/
+
+# 忽略 .pyc, .pyo, .pyd 文件
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略 .log 文件
+*.log
+
+# 忽略 .conda
+.conda
+
+APIKEY.ini
+assets/*

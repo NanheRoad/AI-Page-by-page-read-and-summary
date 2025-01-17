@@ -1,0 +1,9 @@
+dash
+flask
+feffery_antd_components
+feffery_utils_components
+feffery_markdown_components
+openai
+PyMuPDF
+termcolor
+configparser
